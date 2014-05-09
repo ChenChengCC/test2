@@ -1,0 +1,7 @@
+1) main dialog->start mode check box. need?
+Pwm_on_mod deleted in R2.4 cypress
+
+2) assertion failure
+_AFXWIN_INLINE HINSTANCE AFXAPI AfxGetResourceHandle()
+	{ ASSERT(afxCurrentResourceHandle != NULL);
+		return afxCurrentResourceHandle; }

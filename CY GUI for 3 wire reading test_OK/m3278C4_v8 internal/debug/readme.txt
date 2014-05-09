@@ -1,0 +1,1 @@
+no_board.txt must have all reg value. if N/A, just put 0.
